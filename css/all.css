@@ -334,7 +334,7 @@ header {
     margin-top: 16px;
 }
 
-.contact {
+footer {
     background-color: #000;
     color: #fff;
     text-align: center;
@@ -342,16 +342,16 @@ header {
     padding-bottom: 64px;
 }
 
-.contact h2 {
+footer h2 {
     font-size: 64px;
     line-height: 84px;
 }
 
-.contact ul {
+footer ul {
     font-size: 24px;
     line-height: 36px;
 }
 
-.contact ul li {
+footer ul li {
     margin-top: 16px;
 }
